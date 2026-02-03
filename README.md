@@ -19,22 +19,7 @@ A beautiful and powerful web scraping application for **screener.in** built with
 
 ## 🚀 Quick Start
 
-### Option 1: Automated Setup (Recommended)
-
-1. **Double-click** `setup.bat`
-
-   * Creates a virtual environment
-   * Installs all dependencies
-
-2. **Double-click** `run_scraper.bat`
-
-3. Open your browser at:
-
-   ```
-   http://localhost:8501
-   ```
-
-### Option 2: Manual Setup
+### Option : Manual Setup
 
 ```bash
 # Create virtual environment
@@ -219,15 +204,6 @@ S.No.,Name,CMP,P/E,Market Cap,Div Yld %,...
 
 ---
 
-## 🔄 Future Improvements
-
-* Custom delay settings
-* Progress bar
-* Data filters
-* Excel export
-* Scheduled scraping
-* Data comparison
-
 ---
 
 ## 🐛 Troubleshooting
@@ -261,15 +237,6 @@ MIT License
 * Data source: Screener.in
 
 ---
-
-## 🤝 Contributing
-
-Contributions welcome:
-
-* Bug reports
-* Feature requests
-* Pull requests
-* Documentation improvements
 
 ---
 
